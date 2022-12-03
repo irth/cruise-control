@@ -9,3 +9,14 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+*.bin
+*.dis
+*.uf2
+*.elf
+*.hex
+*.elf.map
+elf2uf2
+generated
+pico-sdk
+pioasm
